@@ -1,0 +1,38 @@
+{
+    "BaseModel.4ddca974-1e16-4125-8620-eadc0b3dab3c": {
+        "id": "4ddca974-1e16-4125-8620-eadc0b3dab3c",
+        "created_at": "2024-05-10T00:36:48.554530",
+        "updated_at": "2024-05-10T00:36:48.554530"
+    },
+    "BaseModel.6129b6b3-5d64-47f8-acc7-5719e6e435ef": {
+        "id": "6129b6b3-5d64-47f8-acc7-5719e6e435ef",
+        "created_at": "2024-05-10T00:37:37.369198",
+        "updated_at": "2024-05-10T00:37:37.369198"
+    },
+    "BaseModel.49b7840c-c57f-4060-8bd9-15bd6d4c1321": {
+        "id": "49b7840c-c57f-4060-8bd9-15bd6d4c1321",
+        "created_at": "2024-05-10T00:37:42.273328",
+        "updated_at": "2024-05-10T00:37:42.273328",
+        "name": "Yousra",
+        "num": "7777",
+        "address": "street",
+        "car": "Hyundai Alantra"
+    },
+    "User.18aeda64-be9b-4c90-9e19-3090ac688f91": {
+        "id": "18aeda64-be9b-4c90-9e19-3090ac688f91",
+        "created_at": "2024-05-11T03:50:12.457027",
+        "updated_at": "2024-05-11T03:50:12.457061",
+        "first_name": "Betty",
+        "last_name": "Bar",
+        "email": "airbnb@mail.com",
+        "password": "root"
+    },
+    "User.8206e438-047e-441e-ab90-9f43f2f2fbc3": {
+        "id": "8206e438-047e-441e-ab90-9f43f2f2fbc3",
+        "created_at": "2024-05-11T03:50:12.459437",
+        "updated_at": "2024-05-11T03:50:12.459464",
+        "first_name": "John",
+        "email": "airbnb2@mail.com",
+        "password": "root"
+    }
+}
